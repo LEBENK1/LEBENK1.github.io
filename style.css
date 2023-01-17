@@ -1,3 +1,4 @@
 body {
-    background-color: crimson;
+    background-color: linear-gradient(150deg, #424949, #B2BABB);
+    height: 100vh;
 }

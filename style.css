@@ -55,11 +55,11 @@ form .username{
 }
 
 .username span::before{
-    content: '';
+    content: 0;
     position: absolute;
     top: 40px;
     left: 0;
-    width:100%;
+    width: 100%;
     height: 2px;
     background: #6C3483;
     transition: .5s;
